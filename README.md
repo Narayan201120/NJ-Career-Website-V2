@@ -1,3 +1,3 @@
-# Jovian-Career-Website
-a careers website for jovian
+# NJ-Career-Website
+a careers website for NJ
 # NJ-Career-Website-V2
